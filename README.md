@@ -12,13 +12,6 @@ For more information please consult the [publication](https://github.com/oarriag
 Guided back-prop
 ![alt tag](images/gradcam_results.png)
 
-Real-time demo:
-<div align='center'>
-  <img src='images/color_demo.gif' width='400px'>
-</div>
-
-[B-IT-BOTS](https://mas-group.inf.h-brs.de/?page_id=622) robotics team :)
-![alt tag](images/robocup_team.png)
 
 ## Instructions
 
