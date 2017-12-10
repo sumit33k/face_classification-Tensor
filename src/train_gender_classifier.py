@@ -1,8 +1,5 @@
 """
 File: train_gender_classifier.py
-Author: Octavio Arriaga
-Email: arriaga.camargo@gmail.com
-Github: https://github.com/oarriaga
 Description: Train gender classification model
 """
 
