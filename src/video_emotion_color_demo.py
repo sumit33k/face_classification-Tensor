@@ -39,7 +39,8 @@ while True:
     gray_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2GRAY)
     rgb_image = cv2.cvtColor(bgr_image, cv2.COLOR_BGR2RGB)
     faces = detect_faces(face_detection, gray_image)
-
+#locate all face within camera range
+    #for each face in camera range loop to match with trained vector
     for face_coordinates in faces:
 
         x1, x2, y1, y2 = apply_offsets(face_coordinates, emotion_offsets)
